@@ -1,0 +1,16 @@
+{
+  "name": "maperial-stream",
+  "version": "0.0.1",
+  "description": "Streams dummy data and render a dynamical heatmap",
+  "main": "server.js",
+  "scripts": {},
+  "homepage": "http://www.maperial.com/",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "^4.2.4"
+  }
+}

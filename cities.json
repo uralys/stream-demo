@@ -1,0 +1,5179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.45,
+          59.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tallinn, Estonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39,
+          60.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lahti, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.50,
+          19.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chiang Rai, Thailand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.48,
+          22.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chittagong, Bangladesh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.50,
+          -7.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "João Pessoa, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05,
+          14.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Fort-de-France, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.09,
+          16.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yangon, Burma"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.23,
+          -29.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pietermaritzburg, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.52,
+          71.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tiksi, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20,
+          47.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.26,
+          33.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Baghdad, Iraq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40,
+          63.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Östersund, Sweden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.57,
+          29.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Eilat, Israel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53,
+          -2.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Guayaquil, Ecuador"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02,
+          32.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tijuana, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33,
+          29.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Suez, Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.56,
+          32.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tucson, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.51,
+          42.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.35,
+          -25.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Maputo, Mozambique"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.12,
+          27.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "El Aaiún, Morocco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.13,
+          14.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tegucigalpa, Honduras"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.51,
+          30.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ludhiana, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32,
+          -16.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Arequipa, Peru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06,
+          35.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chiba, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.47,
+          46.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bismarck, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27,
+          41.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Vatican City, Vatican City"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          46.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ljubljana, Slovenia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.13,
+          36.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Algiers, Algeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.51,
+          21.02
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hanoi, Vietnam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.44,
+          26.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Guwahati, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.16,
+          42.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Podgorica, Montenegro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34,
+          44.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Montpelier, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.13,
+          -51.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Río Gallegos, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.36,
+          36.18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mashhad, Iran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.24,
+          63.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Trondheim, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47,
+          51.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Düsseldorf, Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.50,
+          -1.16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Balikpapan, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.13,
+          56.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Aarhus, Denmark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.00,
+          1.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "South Tarawa, Kiribati"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.23,
+          23.08
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Havana, Cuba"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.06,
+          29.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lhasa,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.59,
+          39.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Columbus, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.13,
+          69.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Norilsk, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.19,
+          5.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Banda Aceh, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09,
+          50.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Plymouth, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31,
+          39.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Eskisehir, Turkey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.10,
+          -17.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Cruz de la Sierra, Bolivia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.31,
+          6.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Enugu, Nigeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.09,
+          65.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tornio, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.06,
+          65.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Akureyri, Iceland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.38,
+          25.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kulpahar, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.33,
+          67.18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bodø, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.23,
+          55.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chelyabinsk, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.57,
+          64.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Skellefteå, Sweden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.09,
+          46.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Charlottetown, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.50,
+          1.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Singapore, Singapore"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.56,
+          31.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Amman, Jordan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15,
+          -29.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "La Serena, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.26,
+          -27.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hanga Roa, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39,
+          39.34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Palma, Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.29,
+          -45.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Comodoro Rivadavia, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.32,
+          50.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Exeter, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.23,
+          51.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Leipzig, Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09,
+          12.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chinandega, Nicaragua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.36,
+          42.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nukus, Uzbekistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40,
+          41.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.01,
+          69.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Utsjoki, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.45,
+          -32.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Newcastle, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17,
+          -15.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lusaka, Zambia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.12,
+          26.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dammam, Saudi Arabia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34,
+          12.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bangalore, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.43,
+          58.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tartu, Estonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.11,
+          -31.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Córdoba, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59,
+          37.34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Seoul, South Korea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04,
+          33.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Islamabad, Pakistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.43,
+          -2.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jayapura, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18,
+          -41.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San Carlos de Bariloche, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.35,
+          -0.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Quito, Ecuador"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.59,
+          37.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sevilla, Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.23,
+          23.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dhaka, Bangladesh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.46,
+          40.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Trenton, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54,
+          -2.31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mwanza, Tanzania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03,
+          42.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.38,
+          5.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Ayacucho, Venezuela"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.27,
+          -22.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nouméa, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.36,
+          35.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Daegu, South Korea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02,
+          14.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Makati, Philippines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.33,
+          -0.21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kismayo, Somalia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.33,
+          37.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kaesong, North Korea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04,
+          40.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jersey City, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41,
+          50.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Frankfurt am Main, Germany"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53,
+          12.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pattaya, Thailand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.20,
+          38.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yamagata, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.14,
+          35.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tottori, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.40,
+          3.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Medan, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.13,
+          17.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Visakhapatnam, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40,
+          30.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jacksonville, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.37,
+          -43.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Christchurch, New Zealand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01,
+          46.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sudbury, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.14,
+          50.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kharkiv, Ukraine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.54,
+          52.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam, Netherlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.36,
+          -20.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Port Hedland, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.46,
+          17.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Belmopan, Belize"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.49,
+          -9.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Honiara, Solomon Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.51,
+          9.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tagbilaran, Philippines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02,
+          55.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Malmö, Sweden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.40,
+          24.09
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Taizhong,Taiwan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.00,
+          27.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dibrugarh, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.14,
+          77.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Qaanaaq, Denmark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09,
+          46.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Geneva, Switzerland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.02,
+          5.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Abidjan, Ivory Coast"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.50,
+          16.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Khon Kaen, Thailand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.34,
+          68.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Narvik, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.05,
+          -22.34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Windhoek, Namibia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.04,
+          51.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.16,
+          7.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Majuro, Marshall Islands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.49,
+          39.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Reno, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.14,
+          39.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Flores Island, Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -180.00,
+          -16.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rabi Island, Fiji"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.22,
+          24.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Abu Dhabi, United Arab Emirates"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11,
+          17.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Belize City, Belize"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31,
+          35.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Valletta, Malta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.10,
+          5.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Paramaribo, Suriname"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.46,
+          62.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tórshavn, Denmark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02,
+          38.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Washington, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.28,
+          65.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Oulu, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21,
+          50.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Brussels, Belgium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55,
+          34.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Wilmington, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.47,
+          -41.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington, New Zealand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.30,
+          29.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San Antonio, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.16,
+          14.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tapachula, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.31,
+          39.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cincinnati, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.08,
+          49.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Winnipeg, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10,
+          31.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Shimla, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13,
+          -33.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.53,
+          70.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nuorgam, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.39,
+          34.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Zhengzhou,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.22,
+          35.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nicosia, Cyprus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.16,
+          -38.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bahía Blanca, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.13,
+          6.08
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lomé, Togo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.52,
+          -15.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Brasília, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56,
+          15.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Asmara, Eritrea"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.32,
+          64.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Arkhangelsk, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13,
+          10.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Alajuela, Costa Rica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35,
+          44.50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bordeaux, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.15,
+          48.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Thunder Bay, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.09,
+          19.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Veracruz, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13,
+          46.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Quebec City, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31,
+          12.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kano, Nigeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.01,
+          -3.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Manaus, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38,
+          54.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Gdańsk, Poland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.37,
+          20.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mérida, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.10,
+          6.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown, Guyana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.44,
+          70.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Vadsø, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.52,
+          -17.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Livingstone, Zambia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.13,
+          -29.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bloemfontein, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.37,
+          -25.31
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad del Este, Paraguay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56,
+          60.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Helsinki, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27,
+          -4.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria, Seychelles"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10,
+          32.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.10,
+          -3.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ambon, Maluku, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16,
+          43.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nice, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.49,
+          -1.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nairobi, Kenya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.31,
+          -18.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Antananarivo, Madagascar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.22,
+          -16.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Labasa, Fiji"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.18,
+          25.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Monterrey, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.14,
+          30.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cairo, Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20,
+          -42.53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hobart, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13,
+          -13.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ayacucho, Peru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.34,
+          11.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bissau, Guinea-Bissau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.25,
+          58.18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Juneau, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26,
+          42.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Skopje, Macedonia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.11,
+          -13.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mata-Utu, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.23,
+          -34.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.27,
+          14.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dakar, Senegal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.46,
+          38.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Louisville, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.30,
+          -9.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Petrolina, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33,
+          53.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Groningen, Netherlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.26,
+          47.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Graz, Austria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20,
+          -27.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Copiapó, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15,
+          12.08
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Managua, Nicaragua"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31,
+          40.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yerevan, Armenia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.27,
+          -18.08
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Suva, Fiji"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.24,
+          62.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowknife, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.11,
+          46.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Pierre, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.27,
+          -33.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chuí, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.27,
+          34.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hiroshima, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.36,
+          10.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Maracay, Venezuela"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23,
+          33.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.24,
+          20.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Querétaro, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.29,
+          -12.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Salvador, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.47,
+          32.18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.32,
+          25.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Doha, Qatar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.53,
+          -7.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Campina Grande, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.39,
+          13.16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Brikama, Gambia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.40,
+          -38.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Temuco, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09,
+          50.50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Brighton and Hove, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.06,
+          -25.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Adamstown, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.24,
+          51.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Antwerp, Belgium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.36,
+          43.50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ürümqi,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.08,
+          19.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico City Mexico City, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21,
+          43.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sapporo, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22,
+          43.18
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Marseille, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.11,
+          51.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cardiff, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.10,
+          42.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pristina, Serbia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.36,
+          50.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Regina, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.38,
+          46.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tiraspol, Moldova"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.06,
+          5.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kinabalu, Malaysia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.01,
+          43.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sukhumi, Georgia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.22,
+          25.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hyderabad, Pakistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.10,
+          34.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Wakayama, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.57,
+          26.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lucknow, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.59,
+          45.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Zagreb, Croatia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.59,
+          70.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Honningsvåg, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00,
+          -90.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "South Pole Station, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44,
+          -12.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Huambo, Angola"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.53,
+          29.16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Shigatse,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04,
+          42.21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Boston, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33,
+          47.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nantes, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.55,
+          7.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ibadan, Nigeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.31,
+          48.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Volgograd, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08,
+          21.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cockburn Town, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.43,
+          43.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sochi, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.20,
+          -7.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Juazeiro do Norte, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.55,
+          34.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Okayama, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.19,
+          62.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sundsvall, Sweden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.57,
+          8.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Trivandrum, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.18,
+          52.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Norwich, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.51,
+          35.14
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.10,
+          -26.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lobamba, Swaziland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47,
+          36.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nashville, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18,
+          28.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Orlando, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.21,
+          2.02
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mogadishu, Somalia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.58,
+          35.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Fe, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.18,
+          52.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Irkutsk, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.47,
+          30.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chandigarh, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.02,
+          -27.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Brisbane, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38,
+          52.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Haarlem, Netherlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.15,
+          -16.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Goiânia, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.30,
+          31.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05,
+          31.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Faisalabad, Pakistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17,
+          -6.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dar es Salaam, Tanzania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.47,
+          41.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tbilisi, Georgia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39,
+          60.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Espoo, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.09,
+          -16.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "La Paz, Bolivia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.40,
+          41.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hartford, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.09,
+          65.35
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Luleå, Sweden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.44,
+          32.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kumamoto, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.43,
+          64.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Fairbanks, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.25,
+          -24.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Salta, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.01,
+          24.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Karachi, Pakistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05,
+          45.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Saint John, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.24,
+          39.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21,
+          46.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sault Ste. Marie, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.06,
+          56.57
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Riga, Latvia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.57,
+          41.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Istanbul, Turkey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36,
+          6.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Benin City, Nigeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.31,
+          10.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Port of Spain, Trinidad and Tobago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.00,
+          58.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kristiansand, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.31,
+          54.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kaliningrad, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.19,
+          35.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kirkuk, Iraq"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.18,
+          33.16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Saga, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.22,
+          -3.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bujumbura, Burundi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.20,
+          -10.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Palmas, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.28,
+          30.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Multan, Pakistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00,
+          40.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pittsburgh, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.04,
+          -45.34
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Coihaique, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.15,
+          43.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Florence, Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.27,
+          25.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Torreón, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.12,
+          43.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Boise, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27,
+          43.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San Marino, San Marino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.41,
+          70.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hammerfest, Norway"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.27,
+          0.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Libreville, Gabon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.41,
+          40.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.48,
+          -5.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Teresina, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11,
+          41.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Barcelona, Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53,
+          41.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Zaragoza, Spain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.29,
+          17.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hyderabad, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.51,
+          6.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Colombo, Sri Lanka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.25,
+          -33.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Town, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.40,
+          41.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Namangan, Uzbekistan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.28,
+          13.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok, Thailand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.46,
+          -28.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kimberley, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09,
+          -20.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Iquique, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.59,
+          29.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kuwait City, Kuwait"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.35,
+          46.46
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cluj-Napoca, Romania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.22,
+          38.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Palermo, Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.10,
+          22.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.34,
+          37.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Taiyuan,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12,
+          5.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Accra, Ghana"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.51,
+          -9.23
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nukulaelae, Tuvalu"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.05,
+          9.56
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San José, Costa Rica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.00,
+          51.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "W Greenwich, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17,
+          11.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bobo-Dioulasso, Burkina Faso"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.48,
+          34.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nara, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.59,
+          -25.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nelspruit, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41,
+          20.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Hai Phong, Vietnam"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.55,
+          -19.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Alofi, New Zealand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.48,
+          10.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Barranquilla, Colombia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.03,
+          29.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "New Orleans, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.42,
+          35.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.41,
+          21.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "León, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.05,
+          37.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Catania, Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.16,
+          13.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chennai (Madras), India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.24,
+          20.43
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Zapopan, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.52,
+          22.15
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tampico, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.38,
+          -25.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Asunción, Paraguay"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.44,
+          64.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nuuk (Godthåb), Denmark"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.00,
+          65.22
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pudasjärvi, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.04,
+          4.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ipoh, Malaysia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30,
+          10.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cartagena, Colombia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.56,
+          -18.51
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Governador Valadares, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.30,
+          -54.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Grytviken, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14,
+          51.52
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Gloucester, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          14.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Thiès, Senegal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.16,
+          23.50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Agartala, India"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.58,
+          -13.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cusco, Peru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.56,
+          -19.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Belo Horizonte, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.53,
+          -34.26
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Wollongong, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.38,
+          35.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yokohama, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.28,
+          34.11
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Yamaguchi, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52,
+          38.16
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Sendai, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51,
+          17.07
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "St. John's, Antigua and Barbuda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.55,
+          11.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Phnom Penh, Cambodia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.01,
+          31.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Marrakech, Morocco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.14,
+          -12.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mamoudzou, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02,
+          9.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Limon, Costa Rica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.44,
+          66.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rovaniemi, Finland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.38,
+          45.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Harbin,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.25,
+          -27.50
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Florianópolis, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.49,
+          -9.58
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Branco, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.41,
+          -45.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Puerto Aisén, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.13,
+          38.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Angra do Heroísmo, Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.28,
+          0.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Entebbe, Uganda"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.24,
+          -28.01
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Coast, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.32,
+          39.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Dover, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.39,
+          35.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Raleigh, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.04,
+          18.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35,
+          43.20
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nemuro, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.27,
+          0.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pekanbaru, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.31,
+          52.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Coventry, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15,
+          -3.44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Iquitos, Peru"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48,
+          -6.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta, Indonesia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.54,
+          61.13
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Anchorage, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18,
+          -54.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ushuaia, Argentina"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.28,
+          32.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Mexicali, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.01,
+          43.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Cannes, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15,
+          34.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.39,
+          25.41
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Luxor, Egypt"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32,
+          35.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Oklahoma City, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.33,
+          34.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Tokushima, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29,
+          52.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Leiden, Netherlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56,
+          -53.10
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Punta Arenas, Chile"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.30,
+          -1.27
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Belém, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.29,
+          -29.19
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Maseru, Lesotho"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.55,
+          32.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Funchal, Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38,
+          38.21
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Charleston, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.36,
+          38.28
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Halkis, Greece"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.13,
+          51.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Voronezh, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.18,
+          -2.32
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "São Luís, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.57,
+          18.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Nouakchott, Mauritania"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.03,
+          50.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Lille, France"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.17,
+          -18.55
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Uberlândia, Brazil"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.23,
+          24.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Culiacán, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07,
+          52.06
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Utrecht, Netherlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.34,
+          45.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.52,
+          -51.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Stanley, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05,
+          4.36
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bogotá, Colombia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03,
+          34.00
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.15,
+          2.12
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Malacca Town, Malaysia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33,
+          53.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Leeds, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.05,
+          50.49
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Portsmouth, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.42,
+          -14.17
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Pago Pago, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.42,
+          4.03
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Douala, Cameroon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08,
+          51.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "London, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          52.29
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Birmingham, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.00,
+          12.39
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Bamako, Mali"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.56,
+          32.47
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Charleston, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.24,
+          7.53
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Phuket, Thailand"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.23,
+          10.30
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chaguanas, Trinidad and Tobago"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.50,
+          34.02
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rabat, Morocco"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.16,
+          44.59
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Minneapolis, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.08,
+          66.05
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ísafjörður, Iceland"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00,
+          4.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Port Harcourt, Nigeria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.57,
+          51.37
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Swansea, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.34,
+          53.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Minsk, Belarus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.36,
+          -33.57
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Port Elizabeth, South Africa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.29,
+          31.44
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad Juárez, Mexico"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.30,
+          41.54
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Rome, Italy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.58,
+          54.45
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ufa, Russia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.12,
+          38.38
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis, United States"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.53,
+          36.33
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Utsunomiya, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.30,
+          34.42
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Osaka, Japan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.58,
+          -29.04
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Kingston, Australia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.31,
+          3.25
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago de Cali, Colombia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.59,
+          36.40
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Jinan,China"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.00,
+          4.24
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Miri, Malaysia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.00,
+          18.48
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Chiang Mai, Thailand"
+      }
+    }
+  ]
+}
