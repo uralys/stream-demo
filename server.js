@@ -32,30 +32,35 @@ function selectPoints(){
     return points;
 }
 
-function send(){
+function send(socket){
     var points = selectPoints();
-    io.emit('points', points);
+    socket.nbPoints += points.features.length;
+    socket.emit('points', points);
 }
 
 // -----------------------------------------------------------------------------
 
 app.get('/', function(req, res){
-  console.log('---> asked for "/"');
   res.sendFile(__dirname + '/index.html');
 });
 
 // -----------------------------------------------------------------------------
 
 io.on('connection', function(socket){
-    var interval = setInterval(send, 25);
+    socket.nbPoints = 0;
 
-    socket.on('disconnect', function(){
-        clearInterval(interval);
-    });
+    var emit = function(){
+        if(socket.nbPoints < 4000){
+            send(socket);
+            setTimeout(emit, 35)
+        }
+    }
+
+    emit();
 });
 
 // -----------------------------------------------------------------------------
 
 http.listen(port, function() {
-  process.stdout.write('--->  Server started : http://localhost:' + port + '\n');
+  process.stdout.write('[Listening] http://localhost:' + port);
 });
