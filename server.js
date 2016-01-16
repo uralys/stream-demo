@@ -62,5 +62,5 @@ io.on('connection', function(socket){
 // -----------------------------------------------------------------------------
 
 http.listen(port, function() {
-  process.stdout.write('[Listening] http://localhost:' + port);
+  process.stdout.write('[Running] http://localhost:' + port);
 });

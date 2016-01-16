@@ -1,1 +1,0 @@
-FROM chrisdugne/stream-demo

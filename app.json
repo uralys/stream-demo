@@ -1,5 +1,0 @@
-{
-  "name": "Stream",
-  "description": "Streaming data from a Node server to draw a dynamical heatmap with Maperial.js",
-  "image": "chrisdugne/stream-demo"
-}
