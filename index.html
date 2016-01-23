@@ -1,9 +1,33 @@
 <html>
   <head>
-    <title>Maperial streaming Twitter</title>
+    <title>Maperial streaming data</title>
+    <style type="text/css">
+    .text {
+      position: fixed;
+      background-color: rgba(83, 84, 86, 0.4);
+      padding: 5px 10px;
+      border-radius: 6px;
+      top: 30px;
+      left: 30px;
+      width: 272px;
+      color: #fff;
+    }
+    a {
+      color: #000;
+    }
+    </style>
   </head>
   <body>
     <div id="map" class="fullscreen-map"></div>
+
+    <div class="text">
+      <p><a href="https://github.com/maperial/maperial.js">Maperial.js</a> : Streaming demo</p>
+      <p>So, good for you, now you have access to Twitter firehose stream.</p>
+      <p>How about drawing beautiful heatmaps to vizualise your data ?</p>
+      <p>This map is an example displaying dynamical points received from a fake stream,</p>
+      <p>You can do the same with your own streams with about 20 JavaScript lines client side.</p>
+      <p>See details on <a href="https://github.com/maperial/stream-demo">github</a></p>
+    </div>
 
     <link href="http://static.maperial.com/css/maperial.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.socket.io/socket.io-1.3.7.js"></script>
@@ -12,7 +36,7 @@
 
       var maperial = new Maperial();
 
-      var map = maperial.createMap({
+      window.map = maperial.createMap({
           container: 'map',
           defaultZoom: 3,
           latitude: 50.916584,
